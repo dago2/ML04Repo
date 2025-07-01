@@ -1,2 +1,7 @@
 dataset01
+client_secret_950587606229-o1u0cnco86a3as2o0un2eshvjqnicms8.apps.googleusercontent.com.json
 .dvc
+.dvc/config
+.dvc/config.local
+.dvc/tmp
+.dvc/cache
